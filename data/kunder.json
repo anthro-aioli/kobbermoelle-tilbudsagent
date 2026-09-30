@@ -1,0 +1,9 @@
+[
+  {"id": "K1", "navn": "Nordborg Byggecenter", "postnr": "6430", "by": "Nordborg", "land": "DK", "kreditspærret": false, "særaftale_pris_pr_plads": null},
+  {"id": "K2", "navn": "Skovbrynet Anlæg ApS", "postnr": "6580", "by": "Vamdrup", "land": "DK", "kreditspærret": true, "særaftale_pris_pr_plads": null},
+  {"id": "K3", "navn": "Nordsee Handel GmbH", "postnr": "20457", "by": "Hamburg", "land": "DE", "kreditspærret": false, "særaftale_pris_pr_plads": null},
+  {"id": "K4", "navn": "Tinglev Havemøbler", "postnr": "6360", "by": "Tinglev", "land": "DK", "kreditspærret": false, "særaftale_pris_pr_plads": 400},
+  {"id": "K5", "navn": "Kølehuset Syd ApS", "postnr": "6100", "by": "Haderslev", "land": "DK", "kreditspærret": false, "særaftale_pris_pr_plads": null},
+  {"id": "K6", "navn": "Vejle Maskinhandel", "postnr": "7100", "by": "Vejle", "land": "DK", "kreditspærret": false, "særaftale_pris_pr_plads": null},
+  {"id": "K7", "navn": "Rengøringsgrossisten Syd", "postnr": "6000", "by": "Kolding", "land": "DK", "kreditspærret": false, "særaftale_pris_pr_plads": null}
+]
