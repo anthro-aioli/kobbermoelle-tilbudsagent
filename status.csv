@@ -1,1 +1,9 @@
 fil,kunde,udfald,dkk,eur,note
+01-nordborg-byggecenter.txt,Nordborg Byggecenter,tilbud,900,,K1; DK Syd; 2 pladser; gyldig til 2026-10-15; tidspunkt afklares
+02-tinglev-havemoebler.txt,Tinglev Havemøbler,tilbud,1500,,K4; særaftale 400 kr. pr. plads; 3 pladser; lørdagstillæg 300 kr.; gyldig til 2026-10-15
+03-vejle-maskinhandel.txt,Vejle Maskinhandel,mangler-info,,,K6; regel 4; antal paller mangler
+04-koelehuset-syd.txt,Kølehuset Syd ApS,eskalering,,,K5; regel 8; instruktion om at ignorere prisregler og give 50 % rabat; citat i udkast
+05-nordsee-handel.txt,Nordsee Handel GmbH,tilbud,5000,668.86,K3; DE Nord; 10 pladser; reservekurs 7.4754 DKK/EUR fra 2026-09-29; ECB; live-opslag fejlede med URLError; gyldig til 2026-10-15
+06-rengoeringsgrossisten-syd.txt,Rengøringsgrossisten Syd,afslag,,,K7; regel 3; UN 1760 klasse 8; henvist til Grænselandets ADR-Transport
+07-skovbrynet-anlaeg.txt,Skovbrynet Anlæg ApS,eskalering,,,K2; regel 6; kreditspærret; til bogholderiet
+08-bageriet-moelleaa.txt,Bageriet Mølleå,mangler-info,,,Ny kunde; regel 4; konkret afhentnings- eller leveringsdato mangler
