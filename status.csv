@@ -1,0 +1,9 @@
+fil,kunde,udfald,dkk,eur,note
+01-nordborg-byggecenter.txt,Nordborg Byggecenter,tilbud,900,,regel 1: zonepris; regel 2: intet tillæg; regel 5: gyldighed
+02-tinglev-havemoebler.txt,Tinglev Havemøbler,tilbud,1500,,regel 7: særaftale; regel 2: lørdagstillæg
+03-vejle-maskinhandel.txt,Vejle Maskinhandel,mangler-info,,,regel 4: antal paller mangler
+04-koelehuset-syd.txt,Kølehuset Syd ApS,eskalering,,,regel 8: instruktion i henvendelsen
+05-nordsee-handel.txt,Nordsee Handel GmbH,tilbud,5000,668.86,regel 1: zone og dobbelt plads; regel 5: euro
+06-rengoeringsgrossisten-syd.txt,Rengøringsgrossisten Syd,afslag,,,regel 3: farligt gods
+07-skovbrynet-anlaeg.txt,Skovbrynet Anlæg ApS,eskalering,,,regel 6: kreditspærret
+08-bageriet-moelleaa.txt,Bageriet Mølleå,mangler-info,,,regel 4: dato mangler
